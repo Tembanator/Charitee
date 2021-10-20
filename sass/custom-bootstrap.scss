@@ -1,0 +1,33 @@
+// custom ariables
+
+$navbar-dark-hover-color:           rgba(101, 201, 187, 1);
+$navbar-dark-active-color:          rgb(101, 201, 187);
+// $navbar-dark-toggler-icon-bg:       url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'><path stroke='#{$navbar-dark-color}' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/></svg>");
+$navbar-dark-toggler-border-color:  rgba(white, .1);
+
+$light: #fbf5e5;
+
+$font-weight-bold:            700;
+// import functions and variables
+@import '../node_modules/bootstrap/scss/_functions';
+@import '../node_modules/bootstrap/scss/_variables';
+
+
+
+
+
+
+
+// import functions and variables
+// @import '../node_modules/bootstrap/scss/_functions';
+// @import '../node_modules/bootstrap/scss/_variables';
+
+// $custom-theme-colors: (
+//     "altlight": #ebe1f7,
+//     "altdark" #522192
+// );
+
+// $theme-colors: map-merge($custom-theme-colors, $theme-colors);
+
+// import bootstrap
+@import '../node_modules/bootstrap/scss/bootstrap';
